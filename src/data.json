@@ -1,0 +1,42 @@
+[
+    {
+      "firstName": "John",
+      "lastName": "Legend",
+      "age": 20,
+      "address": "jjjllll",
+      "email": "johnl@gmail.com",
+      "id": 1
+    },
+    {
+        "firstName": "Katy",
+        "lastName": "Perry",
+        "age": 25,
+        "address": "kkkppp",
+        "email": "katyperry@gmail.com",
+        "id": 2
+    },
+    {
+      "firstName": "Selena",
+      "lastName": "Gomes",
+      "age": 18,
+      "address": "sssgg",
+      "email": "selena@gmail.com",
+      "id": 3
+    },
+    {
+      "firstName": "Sam",
+      "lastName": "Smith",
+      "age": 35,
+      "address": "ssss",
+      "email": "sam@gmail.com",
+      "id": 4
+    },
+    {
+      "firstName": "adele",
+      "lastName": "Aad",
+      "age": 21,
+      "address": "aaddd",
+      "email": "adele@gmail.com",
+      "id": 5
+    }
+  ]
